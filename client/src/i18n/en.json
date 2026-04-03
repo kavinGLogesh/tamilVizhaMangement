@@ -1,0 +1,68 @@
+{
+  "nav": {
+    "login": "Login",
+    "register": "Register",
+    "logout": "Logout",
+    "dashboard": "Dashboard"
+  },
+  "home": {
+    "title": "Vizha Management",
+    "subtitle": "Manage your Tamil cultural functions with ease",
+    "functions": "Our Functions"
+  },
+  "functions": {
+    "kaathu_kuthu": "Ear Piercing (Kaathu Kuthu)",
+    "kalyanam": "Wedding (Kalyanam)",
+    "veetu_punniyahavasanam": "House Warming (Punniyahavasanam)",
+    "valaikappu": "Baby Shower (Valaikappu)",
+    "virundhu": "Feast / Dinner (Virundhu)"
+  },
+  "login": {
+    "title": "Login",
+    "username": "Username",
+    "password": "Password",
+    "submit": "Login",
+    "noAccount": "Don't have an account?",
+    "registerLink": "Register here",
+    "welcome": "Welcome",
+    "loginDate": "Login Date"
+  },
+  "register": {
+    "title": "Register",
+    "username": "Username",
+    "password": "Password",
+    "date": "Registration Date",
+    "functionType": "Select Function",
+    "submit": "Register",
+    "hasAccount": "Already have an account?",
+    "loginLink": "Login here",
+    "success": "Registration Successful!"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "viewDashboard": "View Dashboard",
+    "addRecord": "Add Record",
+    "save": "Save",
+    "cancel": "Cancel",
+    "name": "Name",
+    "address": "Address",
+    "amount": "Amount (Rs.)",
+    "functionType": "Function Type",
+    "date": "Date",
+    "totalRecords": "Total Records",
+    "totalAmount": "Total Amount",
+    "welcomeBack": "Welcome back",
+    "noRecords": "No records found",
+    "addFirst": "Add your first record",
+    "viewAll": "View All Records",
+    "actions": "Actions",
+    "delete": "Delete",
+    "exportCSV": "Export CSV"
+  },
+  "errors": {
+    "required": "This field is required",
+    "loginFailed": "Invalid username or password",
+    "registerFailed": "Registration failed. Please try again.",
+    "serverError": "Server error. Please try again later."
+  }
+}

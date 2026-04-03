@@ -1,0 +1,68 @@
+{
+  "nav": {
+    "login": "உள்நுழை",
+    "register": "பதிவு செய்",
+    "logout": "வெளியேறு",
+    "dashboard": "டாஷ்போர்டு"
+  },
+  "home": {
+    "title": "விழா மேலாண்மை",
+    "subtitle": "தமிழ் கலாச்சார விழாக்களை எளிதாக நிர்வகிக்கவும்",
+    "functions": "எங்கள் விழாக்கள்"
+  },
+  "functions": {
+    "kaathu_kuthu": "காத்து குத்து",
+    "kalyanam": "கல்யாணம்",
+    "veetu_punniyahavasanam": "வீட்டு புண்ணியாஹவசனம்",
+    "valaikappu": "வளைகாப்பு",
+    "virundhu": "விருந்து"
+  },
+  "login": {
+    "title": "உள்நுழைவு",
+    "username": "பயனர் பெயர்",
+    "password": "கடவுச்சொல்",
+    "submit": "உள்நுழை",
+    "noAccount": "கணக்கு இல்லையா?",
+    "registerLink": "இங்கே பதிவு செய்யவும்",
+    "welcome": "வணக்கம்",
+    "loginDate": "உள்நுழைந்த தேதி"
+  },
+  "register": {
+    "title": "பதிவு செய்க",
+    "username": "பயனர் பெயர்",
+    "password": "கடவுச்சொல்",
+    "date": "பதிவு தேதி",
+    "functionType": "விழா தேர்வு",
+    "submit": "பதிவு செய்",
+    "hasAccount": "ஏற்கனவே கணக்கு உள்ளதா?",
+    "loginLink": "இங்கே உள்நுழையவும்",
+    "success": "பதிவு வெற்றிகரமாக முடிந்தது!"
+  },
+  "dashboard": {
+    "title": "டாஷ்போர்டு",
+    "viewDashboard": "டாஷ்போர்டு பார்க்க",
+    "addRecord": "பதிவு சேர்க்க",
+    "save": "சேமி",
+    "cancel": "ரத்து செய்",
+    "name": "பெயர்",
+    "address": "முகவரி",
+    "amount": "தொகை (ரூ.)",
+    "functionType": "விழா வகை",
+    "date": "தேதி",
+    "totalRecords": "மொத்த பதிவுகள்",
+    "totalAmount": "மொத்த தொகை",
+    "welcomeBack": "மீண்டும் வருக",
+    "noRecords": "பதிவுகள் இல்லை",
+    "addFirst": "முதல் பதிவை சேர்க்கவும்",
+    "viewAll": "அனைத்து பதிவுகள் பார்க்க",
+    "actions": "செயல்கள்",
+    "delete": "நீக்கு",
+    "exportCSV": "CSV ஏற்றுமதி"
+  },
+  "errors": {
+    "required": "இந்த புலம் தேவை",
+    "loginFailed": "தவறான பயனர் பெயர் அல்லது கடவுச்சொல்",
+    "registerFailed": "பதிவு தோல்வியடைந்தது. மீண்டும் முயற்சிக்கவும்.",
+    "serverError": "சர்வர் பிழை. பின்னர் முயற்சிக்கவும்."
+  }
+}
