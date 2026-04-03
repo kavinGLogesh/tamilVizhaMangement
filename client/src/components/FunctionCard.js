@@ -3,11 +3,11 @@ import { Card, CardMedia, CardContent, Typography, Box } from '@mui/material';
 import { useTranslation } from 'react-i18next';
 
 const FUNCTION_IMAGES = {
-  kaathu_kuthu:           'https://picsum.photos/seed/kaathu101/400/260',
-  kalyanam:               'https://picsum.photos/seed/wedding202/400/260',
-  veetu_punniyahavasanam: 'https://picsum.photos/seed/house303/400/260',
-  valaikappu:             'https://picsum.photos/seed/baby404/400/260',
-  virundhu:               'https://picsum.photos/seed/feast505/400/260',
+  kaathu_kuthu: "/image/kathukuthu.jpeg",
+  kalyanam: "/image/wedding.jpeg",
+  veetu_punniyahavasanam: "/image/housewarmming.jpeg",
+  valaikappu: "/image/babyshower.jpeg",
+  virundhu: "/image/virunthu.jpeg",
 };
 
 const FUNCTION_META = {
